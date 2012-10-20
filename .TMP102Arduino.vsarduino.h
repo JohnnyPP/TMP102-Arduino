@@ -12,6 +12,7 @@ extern "C" void __cxa_pure_virtual() {}
 #include "C:\arduino-1.0\libraries\Wire\utility\twi.c"
 void setup();
 void loop();
+float getTemperature();
 
 #include "C:\arduino-1.0\hardware\arduino\variants\standard\pins_arduino.h" 
 #include "C:\arduino-1.0\hardware\arduino\cores\arduino\Arduino.h"
